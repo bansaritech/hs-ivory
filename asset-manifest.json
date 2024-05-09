@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c4ba6ea.css",
+    "main.js": "/static/js/main.d984a2a9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/newHome.jpg": "/static/media/newHome.a237ac3c2d3d0180a26f.jpg",
+    "static/media/contact.jpeg": "/static/media/contact.550ce121e75fe65fddf4.jpeg",
+    "static/media/international.jpeg": "/static/media/international.efd31d851706b940372e.jpeg",
+    "static/media/houses.jpg": "/static/media/houses.7c2eb5ec41519f39768c.jpg",
+    "static/media/newhomes.jpeg": "/static/media/newhomes.a4076e35d47eeeb448a1.jpeg",
+    "static/media/land.jpg": "/static/media/land.b4f86065bf64b5ec414e.jpg",
+    "static/media/Home3.png": "/static/media/Home3.9e9e893e8347f8ad254c.png",
+    "static/media/flats&apartments.jpg": "/static/media/flats&apartments.7c62d967d8fd19344d56.jpg",
+    "static/media/AboutUs.png": "/static/media/AboutUs.2cc731288ab6b08adead.png",
+    "static/media/RentBreadCrumb.png": "/static/media/RentBreadCrumb.37fadf9b4fce76a14f8e.png",
+    "static/media/randomProperty.jpg": "/static/media/randomProperty.50eb26cc751291d25ed5.jpg",
+    "static/media/rent.jpeg": "/static/media/rent.6625a4e24f97e2cc33bb.jpeg",
+    "static/media/Claudia.png": "/static/media/Claudia.3fca8ce44765c22aa33b.png",
+    "static/media/Beatrice.png": "/static/media/Beatrice.f3144971c7adf74be6ef.png",
+    "static/media/Bailey.png": "/static/media/Bailey.e07717bef2446bf10783.png",
+    "static/media/Layer_1logo2.svg": "/static/media/Layer_1logo2.8dc9ea631a93df8014d3a9032f368334.svg",
+    "static/media/Layer_1logo1.svg": "/static/media/Layer_1logo1.2f7819e7c89edda4ac88bf25fa7f017c.svg",
+    "static/media/Layer_1logo3.svg": "/static/media/Layer_1logo3.4361ab1f4535a42aa31a63957c54d9dd.svg",
+    "static/media/Layer_1logo4.svg": "/static/media/Layer_1logo4.6a34bf595ce235d07425ba9de7b91082.svg",
+    "static/media/IvoryLogo.svg": "/static/media/IvoryLogo.c9fb9551e271e938cfab3a7b84b7a887.svg",
+    "static/media/bathroomIcon.svg": "/static/media/bathroomIcon.df9d041876aa40361e2696192fb63197.svg",
+    "static/media/parkingIcon.svg": "/static/media/parkingIcon.085a9dcbc6908b261f200c778b41689d.svg",
+    "index.html": "/index.html",
+    "static/media/Layer_3share.svg": "/static/media/Layer_3share.687e2c0d592d154c1b931af73af1c66b.svg",
+    "static/media/Layer_3FloorPLan.svg": "/static/media/Layer_3FloorPLan.c69dc6f742889bbc103c1a9e635aacf9.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.e28f3bc94f1680210da909d1e596b2ff.svg",
+    "static/media/bedroomIcon.svg": "/static/media/bedroomIcon.3bc6a0eb26d4fc5d6831978d09a930dd.svg",
+    "static/media/Layer_2print.svg": "/static/media/Layer_2print.874215e9433acd44d6dab36e2131df9b.svg",
+    "static/media/Polygon 14play.svg": "/static/media/Polygon 14play.81d8f09e865df8a2df57a1d9f289b8ed.svg",
+    "main.5c4ba6ea.css.map": "/static/css/main.5c4ba6ea.css.map",
+    "main.d984a2a9.js.map": "/static/js/main.d984a2a9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c4ba6ea.css",
+    "static/js/main.d984a2a9.js"
+  ]
+}
